@@ -14,6 +14,7 @@ import com.example.lizh.tunedemo.view.MySlideSwitchGroup;
 
 /**
  * Created by lizh on 2016/9/30.
+ * 测试一下改这里会不会上传到github
  * 滚动条
  */
 public class VDActivity extends AppCompatActivity {
